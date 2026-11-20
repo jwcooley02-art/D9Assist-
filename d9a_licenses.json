@@ -1,0 +1,67 @@
+{
+  "licenses": [
+    {
+      "code": "D9A-LIFE-JEREMY-2026",
+      "tierId": "lifetime",
+      "durationLabel": "Lifetime Access (Permanent)",
+      "gameId": "all",
+      "gameName": "Escape from Tarkov + Arena + SDK",
+      "isBound": true,
+      "boundUsername": "OPD9",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "expiresAt": 2110504016701,
+      "createdAt": 1792552016701,
+      "revoked": false
+    },
+    {
+      "code": "D9A-EFT-7X89-21PQ",
+      "tierId": "1_month",
+      "durationLabel": "30 Days Access",
+      "gameId": "d9-escape-from-tarkov",
+      "gameName": "Escape from Tarkov",
+      "isBound": false,
+      "createdAt": 1795057616701,
+      "revoked": false
+    },
+    {
+      "code": "D9A-EFT-99M1-44B8",
+      "tierId": "1_week",
+      "durationLabel": "7 Days Access",
+      "gameId": "d9-escape-from-tarkov",
+      "gameName": "Escape from Tarkov",
+      "isBound": false,
+      "createdAt": 1795143616701,
+      "revoked": false
+    }
+  ],
+  "users": [
+    {
+      "id": "user-opd9",
+      "username": "OPD9",
+      "email": "jwcooley02@gmail.com",
+      "role": "Admin",
+      "isOwner": true,
+      "assignedBy": "System (Owner / Creator)",
+      "assignedAt": 1792553511024
+    },
+    {
+      "id": "user-vip1",
+      "username": "GhostActual",
+      "email": "ghost@d9assist.net",
+      "role": "VIP",
+      "isOwner": false,
+      "assignedBy": "OPD9",
+      "assignedAt": 1795145531052
+    },
+    {
+      "id": "user-mem1",
+      "username": "BravoSix",
+      "email": "bravo@d9assist.net",
+      "role": "Member",
+      "isOwner": false,
+      "assignedBy": "OPD9",
+      "assignedAt": 1794972711024
+    }
+  ],
+  "streamEvents": []
+}
